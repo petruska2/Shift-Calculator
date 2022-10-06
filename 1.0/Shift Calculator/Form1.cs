@@ -297,7 +297,7 @@ namespace Shift_Calculator
 
             if (Lab.Checked)
             {
-                if (!(LabType.SelectedItem == null))
+                if (!(LabType.SelectedItem.ToString() == null))
                 {
                     if (LabType.SelectedItem.ToString() == "Weekday")
                     {

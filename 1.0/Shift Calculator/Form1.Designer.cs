@@ -1402,7 +1402,7 @@ namespace Shift_Calculator
             this.label16.Name = "label16";
             this.label16.Size = new System.Drawing.Size(60, 13);
             this.label16.TabIndex = 51;
-            this.label16.Text = "Version 1.1";
+            this.label16.Text = "Version 1.0";
             this.label16.TextAlign = System.Drawing.ContentAlignment.TopRight;
             // 
             // MainWindow
